@@ -47,7 +47,7 @@ software integration has been successfully completed.
 
 ![image](https://github.com/user-attachments/assets/a9008b2e-1204-4461-92ed-9eabfd5b06cd)
 
-I developed this project using ESPRESSIF-IDE. Throughout the coding process, I actively utilized **_sdkconfig_** to ensure optimal configuration. Implementing FreeRTOS was a valuable experience, as it helped manage multiple tasks efficiently and reduce processing load.
+I developed this project using ESPRESSIF-IDF. Throughout the coding process, I actively utilized **_sdkconfig_** to ensure optimal configuration. Implementing FreeRTOS was a valuable experience, as it helped manage multiple tasks efficiently and reduce processing load.
 
 For now, the code structure will remain as it is. In future projects, I plan to focus more on data control and management.
 
