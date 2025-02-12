@@ -46,6 +46,6 @@ I developed this project using ESPRESSIF-IDE. Throughout the coding process, I a
 
 For now, the code structure will remain as it is. In future projects, I plan to focus more on data control and management.
 
-You can find a more detailed Turkish report of this project in files. 
+You can find a more detailed Turkish report of this project:  https://github.com/alihancakir/COLD-STORGE-CONTROLLER/blob/main/NORA_MINI_REPORT.pdf 
 
 
