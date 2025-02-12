@@ -2,8 +2,6 @@
 
  ## 📢 _**COLD STORGE CONTROLLER**_
 
-
-### DESCRIPTION
 This work focuses on the design of a control board and peripheral components tailored to 
 meet the demands of industrial _**cold storage facilities**_. The primary goal of the design process 
 is to develop a functional and reliable system suitable for active use in such environments. As 
