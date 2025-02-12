@@ -8,6 +8,9 @@ is to develop a functional and reliable system suitable for active use in such e
 part of this effort, the hardware design of the control board has been finalized, and its 
 software integration has been successfully completed.
 
+![image](https://github.com/user-attachments/assets/5c32fabf-740f-4aa5-99a2-0ea9da2395a6)
+
+
 ![alt text](https://github.com/alihancakir/COLD-STORGE-CONTROLLER/blob/main/PCB.jpg?raw=true)
 
 ##  🔶 FEATURES
