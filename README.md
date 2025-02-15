@@ -23,11 +23,11 @@ software integration has been successfully completed.
 
 | PERIPERHAL UNITS |
 | ------------- |
-| 1-PWM INPUT (ISOLATED) | 
+| 1-PWM OUTPUT (ISOLATED) | 
 | 1-NTC10K INPUT (ISOLATED) | 
 | 1-RTC INPUT  (EXTERNAL) | 
 | 1-HUMIDITY SENSOR INPUT (ISOLATED) |
-| 1-CURRENT READER (ISOLATED)| 
+| 1- 5-20mA CURRENT READER (ISOLATED)| 
 | 1-24V RELAY (ISOLATED) | 
 
 | UI |
